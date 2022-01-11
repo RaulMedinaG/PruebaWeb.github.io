@@ -1,0 +1,104 @@
+.todo{
+    background-color:cornsilk;
+}
+
+.logo img{
+    position: fixed;
+    width: 100px;
+    height: 100px;
+}
+
+.login{
+    position: fixed;
+    margin-top: 0.5%;
+    margin-left: 75%;
+}
+
+.foto1{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    margin-left: 30%;
+    margin-top: 7%;
+}
+
+.foto2{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    margin-left: 65%;
+    margin-top: 7%;
+}
+
+.parrafo{
+    position: absolute;
+    margin-left: 11%;
+    margin-top: 19%;
+    font-size: x-large;
+}
+
+.noticia {
+    position: absolute;
+    font-size: x-large;
+    overflow: auto;
+    margin-left: 10%;
+    margin-top: 21%;
+    height: 700px;
+    width: 50%;
+    padding: 17px;
+}
+
+.hr{
+    position: absolute;
+    margin-top: 63%;
+}
+
+.menu {
+    position: fixed;
+    overflow: hidden;
+    background-size: 100%;
+    margin-top: 7%;
+    margin-left: 77%;
+    height: 25%;
+    width: 20%;
+}
+
+.equipos{
+    position: absolute;
+    margin-top: 64%;
+    margin-left: 15%;
+
+}
+
+.jugadores{
+    position: absolute;
+    margin-top: 64%;
+    margin-left: 40%;
+
+}
+
+.clubes{
+    position: absolute;
+    margin-top: 64%;
+    margin-left: 65%;
+
+}
+
+.hr2{
+    position: absolute;
+    margin-top: 72%;
+}
+
+.logo2 img{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    margin-top: 75%;
+    margin-left: 15%;
+}
+
+.direccion{
+    position: absolute;
+    margin-top: 75%;
+    margin-left: 65%;
+}
